@@ -25,12 +25,12 @@ body
 .heading1{
 	text-align:center;
    padding:10px;
-   margin-top:100px;
+   margin-top:1000px;
    padding-left:16px;
    margin-left:17em;
    margin-right:15em;
    color:white;
-   background-color:rgba(0,0,0,0.6);
+   background-color:rgba(0,230,0,0.6);
    transition: all .5s;
    border-radius:10px;
 } 
