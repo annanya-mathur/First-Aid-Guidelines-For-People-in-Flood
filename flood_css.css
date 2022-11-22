@@ -38,7 +38,7 @@ body
    padding:5px;
    background-color:rgba(210,105,30,0.7);
    transition: all .5s;
-   border-radius:10px;
+   border-radius:10px ;
 }
 
 .a{
