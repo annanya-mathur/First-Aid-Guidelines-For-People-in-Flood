@@ -23,16 +23,12 @@ body
    border-radius:10px;
 } 
 .heading1{
-	text-align:center;
-   padding:10px;
-   margin-top:1000px;
-   padding-left:16px;
+	
+   margin-top:500px;
+  
    margin-left:17em;
    margin-right:15em;
-   color:white;
-   background-color:rgba(0,230,0,0.6);
-   transition: all .5s;
-   border-radius:10px;
+  
 } 
 .b{ color:white;
    padding:5px;
